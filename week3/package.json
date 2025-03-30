@@ -1,0 +1,25 @@
+{
+  "name": "bootstrapping-express",
+  "version": "1.0.0",
+  "description": "3_2P",
+  "homepage": "https://github.com/A3RO001/SIT725/tree/week3_2P#readme",
+  "bugs": {
+    "url": "https://github.com/A3RO001/SIT725/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A3RO001/SIT725.git#week3_2P"
+  },
+  "license": "ISC",
+  "author": "Anay",
+  "type": "commonjs",
+  "main": "server.js",
+
+  "scripts": {
+  "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+  
+}
